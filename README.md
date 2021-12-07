@@ -1,6 +1,6 @@
 # 🖼 Artistry
 
-#### Python & React App
+## Python & React App
 
 ---------
 
