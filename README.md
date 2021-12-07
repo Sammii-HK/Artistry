@@ -1,10 +1,16 @@
-# Python & React App – SEI Project 4
+# 🖼 Artistry
+
+#### Python & React App
+
+---------
 
 [Live Site](https://artistry-api-app.herokuapp.com/#/): https://artistry-api-app.herokuapp.com/#/
+
 
 ### Timeframe
 
 7 days
+
 
 ## Technologies Used
 
